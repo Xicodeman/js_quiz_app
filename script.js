@@ -115,5 +115,14 @@ const questions = [
             { text: 'Yeahh', correct: true},
             { text: 'Nope', correct: false}
         ]
+    },
+    {
+        question: "JavaScript is the new wave?  ",
+        answers: [
+            { text: 'For sure', correct: true},
+            { text: 'Yep', correct: true},
+            { text: 'Nah', correct: false},
+
+        ]
     }
 ]
